@@ -1,4 +1,7 @@
 # vue-page-generation
+```
+https://vue-generate-blog.web.app/
+```
 
 ## Project setup
 ```
